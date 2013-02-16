@@ -1,0 +1,38 @@
+/*
+Theme Name: Twentytwelve xsteadfastx 
+Description: Child theme for the twentytwelve theme 
+Author: xsteadfastx
+Template: twentytwelve
+*/
+
+@import url("../twentytwelve/style.css");
+
+@font-face{
+	font-family: "opendyslexic";
+	src: url('./fonts/OpenDyslexic-Regular.otf');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face{
+	font-family: "opendyslexic";
+	src: url('./fonts/OpenDyslexic-Italic.otf');
+	font-style: italic;
+	font-weight: normal;
+}
+@font-face{
+	font-family: "opendyslexic";
+	src: url('./fonts/OpenDyslexic-Bold.otf');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face{
+	font-family: "opendyslexic";
+	src: url('./fonts/OpenDyslexic-BoldItalic.otf');
+	font-weight: bold;
+	font-style: italic;
+}
+
+* {
+   font-family: "opendyslexic" !important;
+}
+
