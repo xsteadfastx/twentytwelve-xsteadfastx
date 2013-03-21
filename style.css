@@ -39,6 +39,14 @@ Template: twentytwelve
 */
 
 img.header-image {
-border-radius:0;
-box-shadow:0 0 0 rgba(0,0,0,0);
+   border-radius:0;
+   box-shadow:0 0 0 rgba(0,0,0,0);
+}
+
+.main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul {
+   border-bottom: 1px solid #EDEDED;
+   border-top: 1px solid #EDEDED;
+   display: inline-block !important;
+   text-align: center;
+   width: 100%;
 }
