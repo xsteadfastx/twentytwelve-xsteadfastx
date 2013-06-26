@@ -6,6 +6,7 @@ Template: twentytwelve
 */
 
 @import url("../twentytwelve/style.css");
+@import url("font-awesome/css/font-awesome.css");
 
 /*
 @font-face{
