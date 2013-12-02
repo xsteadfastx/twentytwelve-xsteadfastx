@@ -53,9 +53,8 @@ img.header-image {
    width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-   clear: both;
-   font-family: 'Arvo', serif;
+body.custom-font-enabled {
+    font-family: 'Arvo', serif;
 }
 
 .entry-header .entry-title {
